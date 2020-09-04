@@ -16,7 +16,7 @@ NOTE: These two modules are compiled using a simple Makefile but installed with 
 
 NOTE: There is also a userspace program to work with ioctl interface
 
-### Work differ 
+### Job differ 
 - Implementation and running time comparison of every possible combination of tasklet, work queue, and shared queue.
  
 ### Keyboard notifier
