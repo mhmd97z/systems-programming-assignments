@@ -1,9 +1,9 @@
 # Kernel Module Programming
- This repo contains several kernel modules developed as assignments in Operating Systems and System Programming course.
+`These assignments were part of my undergrad coursework at Sharif UT.`
 
 ## Modules Description
 ### Interface warm-up
-- module1: establishes two interfaces; one can write in the dev interface and the proc interface keeps a log of what is written in the dev interface.
+- module1: establishes two interfaces; one can write in the dev interface and the proc interface keeps a log ofswhat is written in the dev interface.
 - module2: this module comprises a pair of proc interfaces in a way that what is written in each interface is readable only from the other interface.
 
 NOTE: These two modules are compiled using a simple Makefile but installed with different insmod commands.
